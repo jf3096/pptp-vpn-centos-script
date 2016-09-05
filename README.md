@@ -20,12 +20,12 @@ Remove it if you want it. If this gets popular, it will be a potential security 
 Add Account
 ---------------------------
 
-    cd /etc/ppp/chap-secrets
+    vi /etc/ppp/chap-secrets
     
 Screenshot
 ----------------------------
 
-Simply add them to /etc/ppp/chap-secrets :
+Simply add accounts to /etc/ppp/chap-secrets :
 
 ![alt tag](/sample.png)
 
