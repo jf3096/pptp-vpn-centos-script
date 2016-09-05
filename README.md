@@ -13,9 +13,7 @@ Command
 Default Settings
 ---------------------------
 
-Once it's installed, you will obtain a default password which are <b>username =vpn</b> <b>password = Uu8-KBb-QYd</b>
-
-Remove it if you want it. If this gets popular, it will be a potential security loophole. Please keep in mind.
+Once it's installed, you will obtain a random password such as: <b>username =vpn</b> <b>password = Uu8-KBb-QYd</b>
 
 Add Account
 ---------------------------
