@@ -24,4 +24,4 @@ Add Account
     
 Screenshot
 ----------------------------
-![alt tag](/git-img/sample.png)
+![alt tag](/sample.png)
