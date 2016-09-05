@@ -24,6 +24,9 @@ Add Account
     
 Screenshot
 ----------------------------
+
+Simply add them to /etc/ppp/chap-secrets :
+
 ![alt tag](/sample.png)
 
 Where client is the username, server is type of service – pptpd for our example, secret is the password, and IP addresses specifies which IP address may authenticate. By setting ‘*’ in IP addresses field, you specify that you would accept username/password pair for any IP.
