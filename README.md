@@ -2,7 +2,7 @@ pptp-vpn-centos-script
 =====================
 > This is a fork from https://github.com/viljoviitanen/setup-simple-pptp-vpn
 
-Since the original is not support centos due to unrecogize command of apt-get, so I instead of fork it, copy it and update it to suit my needs, as well as save it as my backup for future VPS server use.
+Since the original is not support centos due to unrecogize command of apt-get, so I fork it, copy it and update it to suit my needs, as well as save it as my backup for future VPS server use.
 
 Command
 ----------------------
